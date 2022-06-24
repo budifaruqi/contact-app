@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "nama": "John Doe",
+      "hp": "081231213123",
+      "email": "johndoe@gmail.com",
+      "alamat": "Bukittinggi"
+    },
+    {
+      "id": "8ede127406e",
+      "nama": "Muhammad Budiana",
+      "hp": "082140401211",
+      "email": "budifaruqi@gmail.com",
+      "alamat": "Rumah"
+    }
+  ]
+}
